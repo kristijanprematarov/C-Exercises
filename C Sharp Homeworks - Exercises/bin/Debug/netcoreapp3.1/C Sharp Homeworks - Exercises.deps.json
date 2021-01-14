@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "C Sharp Homeworks - Exercises/1.0.0": {
+        "runtime": {
+          "C Sharp Homeworks - Exercises.dll": {}
+        }
+      },
+      "C Sharp Homeworks - Exercises INTERFACES/1.0.0": {
+        "runtime": {
+          "C Sharp Homeworks - Exercises INTERFACES.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C Sharp Homeworks - Exercises/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "C Sharp Homeworks - Exercises INTERFACES/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

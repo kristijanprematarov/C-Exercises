@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>C_Sharp_Homeworks___Exercises_INTERFACES</RootNamespace>
+  </PropertyGroup>
+
+</Project>

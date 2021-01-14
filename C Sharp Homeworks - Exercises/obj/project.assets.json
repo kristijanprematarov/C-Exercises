@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "C Sharp Homeworks - Exercises INTERFACES/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/C Sharp Homeworks - Exercises INTERFACES.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/C Sharp Homeworks - Exercises INTERFACES.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C Sharp Homeworks - Exercises INTERFACES/1.0.0": {
+      "type": "project",
+      "path": "../C Sharp Homeworks - Exercises INTERFACES/C Sharp Homeworks - Exercises INTERFACES.csproj",
+      "msbuildProject": "../C Sharp Homeworks - Exercises INTERFACES/C Sharp Homeworks - Exercises INTERFACES.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "C Sharp Homeworks - Exercises INTERFACES >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Kristijan\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Kristijan\\Desktop\\New folder\\C Sharp Homeworks - Exercises\\C Sharp Homeworks - Exercises.csproj",
+      "projectName": "C Sharp Homeworks - Exercises",
+      "projectPath": "C:\\Users\\Kristijan\\Desktop\\New folder\\C Sharp Homeworks - Exercises\\C Sharp Homeworks - Exercises.csproj",
+      "packagesPath": "C:\\Users\\Kristijan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Kristijan\\Desktop\\New folder\\C Sharp Homeworks - Exercises\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Kristijan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\Kristijan\\Desktop\\New folder\\C Sharp Homeworks - Exercises INTERFACES\\C Sharp Homeworks - Exercises INTERFACES.csproj": {
+              "projectPath": "C:\\Users\\Kristijan\\Desktop\\New folder\\C Sharp Homeworks - Exercises INTERFACES\\C Sharp Homeworks - Exercises INTERFACES.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

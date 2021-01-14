@@ -1,0 +1,16 @@
+C:\Users\Kristijan\Desktop\Code Academy\Domasni C# Januari\C Sharp Homeworks - Exercises\C Sharp Homeworks - Exercises\bin\Debug\netcoreapp3.1\C Sharp Homeworks - Exercises.exe
+C:\Users\Kristijan\Desktop\Code Academy\Domasni C# Januari\C Sharp Homeworks - Exercises\C Sharp Homeworks - Exercises\bin\Debug\netcoreapp3.1\C Sharp Homeworks - Exercises.deps.json
+C:\Users\Kristijan\Desktop\Code Academy\Domasni C# Januari\C Sharp Homeworks - Exercises\C Sharp Homeworks - Exercises\bin\Debug\netcoreapp3.1\C Sharp Homeworks - Exercises.runtimeconfig.json
+C:\Users\Kristijan\Desktop\Code Academy\Domasni C# Januari\C Sharp Homeworks - Exercises\C Sharp Homeworks - Exercises\bin\Debug\netcoreapp3.1\C Sharp Homeworks - Exercises.runtimeconfig.dev.json
+C:\Users\Kristijan\Desktop\Code Academy\Domasni C# Januari\C Sharp Homeworks - Exercises\C Sharp Homeworks - Exercises\bin\Debug\netcoreapp3.1\C Sharp Homeworks - Exercises.dll
+C:\Users\Kristijan\Desktop\Code Academy\Domasni C# Januari\C Sharp Homeworks - Exercises\C Sharp Homeworks - Exercises\bin\Debug\netcoreapp3.1\C Sharp Homeworks - Exercises.pdb
+C:\Users\Kristijan\Desktop\Code Academy\Domasni C# Januari\C Sharp Homeworks - Exercises\C Sharp Homeworks - Exercises\obj\Debug\netcoreapp3.1\C Sharp Homeworks - Exercises.csprojAssemblyReference.cache
+C:\Users\Kristijan\Desktop\Code Academy\Domasni C# Januari\C Sharp Homeworks - Exercises\C Sharp Homeworks - Exercises\obj\Debug\netcoreapp3.1\C Sharp Homeworks - Exercises.AssemblyInfoInputs.cache
+C:\Users\Kristijan\Desktop\Code Academy\Domasni C# Januari\C Sharp Homeworks - Exercises\C Sharp Homeworks - Exercises\obj\Debug\netcoreapp3.1\C Sharp Homeworks - Exercises.AssemblyInfo.cs
+C:\Users\Kristijan\Desktop\Code Academy\Domasni C# Januari\C Sharp Homeworks - Exercises\C Sharp Homeworks - Exercises\obj\Debug\netcoreapp3.1\C Sharp Homeworks - Exercises.csproj.CoreCompileInputs.cache
+C:\Users\Kristijan\Desktop\Code Academy\Domasni C# Januari\C Sharp Homeworks - Exercises\C Sharp Homeworks - Exercises\obj\Debug\netcoreapp3.1\C Sharp Homeworks - Exercises.dll
+C:\Users\Kristijan\Desktop\Code Academy\Domasni C# Januari\C Sharp Homeworks - Exercises\C Sharp Homeworks - Exercises\obj\Debug\netcoreapp3.1\C Sharp Homeworks - Exercises.pdb
+C:\Users\Kristijan\Desktop\Code Academy\Domasni C# Januari\C Sharp Homeworks - Exercises\C Sharp Homeworks - Exercises\obj\Debug\netcoreapp3.1\C Sharp Homeworks - Exercises.genruntimeconfig.cache
+C:\Users\Kristijan\Desktop\Code Academy\Domasni C# Januari\C Sharp Homeworks - Exercises\C Sharp Homeworks - Exercises\bin\Debug\netcoreapp3.1\C Sharp Homeworks - Exercises INTERFACES.dll
+C:\Users\Kristijan\Desktop\Code Academy\Domasni C# Januari\C Sharp Homeworks - Exercises\C Sharp Homeworks - Exercises\bin\Debug\netcoreapp3.1\C Sharp Homeworks - Exercises INTERFACES.pdb
+C:\Users\Kristijan\Desktop\Code Academy\Domasni C# Januari\C Sharp Homeworks - Exercises\C Sharp Homeworks - Exercises\obj\Debug\netcoreapp3.1\C Sharp Homeworks - Exercises.csproj.CopyComplete

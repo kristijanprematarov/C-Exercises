@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>C_Sharp_Homeworks___Exercises</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\C Sharp Homeworks - Exercises INTERFACES\C Sharp Homeworks - Exercises INTERFACES.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GgvpOf8jn8xG8AqzndLSIiKUi4NtNR1mUMBSzlFfiegy8bc5akAkAIgAUkhQN3Q1u+BtpDrL9rR42vEpmD3fQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kristijan\\Desktop\\New folder\\C Sharp Homeworks - Exercises INTERFACES\\C Sharp Homeworks - Exercises INTERFACES.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kristijan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Kristijan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

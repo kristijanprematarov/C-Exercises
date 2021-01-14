@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C Sharp Homeworks - Exercises", "C Sharp Homeworks - Exercises\C Sharp Homeworks - Exercises.csproj", "{359F3689-7474-471A-8545-B2E2ACC8903A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C Sharp Homeworks - Exercises INTERFACES", "C Sharp Homeworks - Exercises INTERFACES\C Sharp Homeworks - Exercises INTERFACES.csproj", "{5DFCD191-5D6F-4EE5-8505-E6D6C155378B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{359F3689-7474-471A-8545-B2E2ACC8903A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{359F3689-7474-471A-8545-B2E2ACC8903A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{359F3689-7474-471A-8545-B2E2ACC8903A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{359F3689-7474-471A-8545-B2E2ACC8903A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DFCD191-5D6F-4EE5-8505-E6D6C155378B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DFCD191-5D6F-4EE5-8505-E6D6C155378B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DFCD191-5D6F-4EE5-8505-E6D6C155378B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DFCD191-5D6F-4EE5-8505-E6D6C155378B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE9B28D0-9B07-4B80-9CC8-FE45F1C3C105}
+	EndGlobalSection
+EndGlobal
